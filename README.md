@@ -21,3 +21,7 @@ the go.
    But I also found that codepen.io allows me to write code much quicker than
    VIM+Firefox. And it allows code export. So, I will try that one for the next
    video.
+
+2. The second tutorial with codepen worked much better. Find the code in the
+   subdirectory `/tut2` and in this
+   [codepen collection](https://codepen.io/collection/ExKZRe).
