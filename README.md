@@ -32,3 +32,10 @@ the go.
    [codepen collection](https://codepen.io/collection/ExKZRe).
 
 4. ...
+
+9. After the car race game the quality drops a little with a lot of code that is
+   just expected to work out of the blue in any circumstances and just a small
+   explanation. So I did one of those as well in codepen, but am struggling to
+   behave the same way in the small codepen window as it does in the video.
+
+Therefore I've decided to stop at that point.
