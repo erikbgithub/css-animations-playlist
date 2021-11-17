@@ -25,3 +25,10 @@ the go.
 2. The second tutorial with codepen worked much better. Find the code in the
    subdirectory `/tut2` and in this
    [codepen collection](https://codepen.io/collection/ExKZRe).
+
+3. After the initial hickup with the dev environment the progress is smooth,
+   so just follow the `/tutX` structure to go the relative next training and
+   look at the effects in the
+   [codepen collection](https://codepen.io/collection/ExKZRe).
+
+4. ...
